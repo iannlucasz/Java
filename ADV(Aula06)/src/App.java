@@ -9,17 +9,31 @@ public class App {
 
         */ 
 
-        String jogo;
-        System.out.println("Qual é o seu jogo do momento ?");
-        Scanner leitor = new Scanner(System.in);
-        leitor.useDelimiter("[\r\n]+");
+       String dados;
+       System.out.println("Qual é o seu CPF ?");
+       Scanner leitorDados = new Scanner(System.in);
+       leitorDados.useDelimiter("[\r\n]+");
+
+       dados = leitorDados.next();
+       System.out.println("O seu CPF é: " + dados + " cuidado para ninguem saber rsrs");
+
+       leitorDados.close();
+
+
+/*
+ * String jogo;
+       System.out.println("Qual é o seu jogo do momento ?");
+       Scanner leitor = new Scanner(System.in);
+       leitor.useDelimiter("[\r\n]+");
 
 
 
-        jogo = leitor.next();
-        System.out.println("O jogo do momento é  " + jogo);
+       jogo = leitor.next();
+       System.out.println("O jogo do momento é  " + jogo);
 
-        leitor.close(); // fecha o Scanner
+       leitor.close(); // fecha o Scanner
+ */
+       
 
 
         
