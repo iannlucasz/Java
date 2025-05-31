@@ -15,7 +15,7 @@ public class App {
          pc.memoriaRam = 8;
          pc.armazenamentoInterno = 256;
          pc.placaDeVideoIntegrada = true;
-         pc.preco = 2.700;
+         pc.preco = 2700;
          pc.processador = "Intel U300";
 
          // Class Fabricante.java
@@ -26,7 +26,22 @@ public class App {
          
          pc.fabricante = dell;
 
+         double valorComDescontoPc = pc.calcularDesconto(0.1);
+         System.out.println("Valor com desconto: " + valorComDescontoPc);
 
+         boolean sucessoPc = pc.adicionarMemoriaRam(8);
+
+         if (sucessoPc) {
+            System.out.println("Produto: " + pc.modelo);
+            System.out.println("Memória Ram adicionada");
+            System.out.println("Quantidade de memória Ram: " + pc.memoriaRam);
+            System.out.println("Novo valor do computador: " + pc.preco);
+         } else {
+            System.out.println("Produto: " + pc.modelo);
+            System.out.println("Não foi possivel adicionar a memória");
+         }
+
+         
          Computador note = new Computador();
 
          // Class Computador.java
@@ -47,11 +62,32 @@ public class App {
 
          note.fabricante = asus;
 
-        
-       
+         double valorComDescontoNote = note.calcularDesconto(0.1);
+         System.out.println("Valor com desconto: " + valorComDescontoNote);
+
+         boolean sucessoNote = note.adicionarMemoriaRam(8);
+
+         if (sucessoNote) {
+            System.out.println("Produto: " + note.modelo);
+            System.out.println("Memória Ram adicionada");
+            System.out.println("Quantidade de memória Ram: " + note.memoriaRam);
+            System.out.println("Novo valor do computador: " + note.preco);
+         } else {
+            System.out.println("Produto: " + pc.modelo);
+            System.out.println("Não foi possivel adicionar a memória");
+         }
+
+
+          
+
+
 
          
+         
 
-    
+
+        
+
+         
     }
 }
