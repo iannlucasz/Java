@@ -24,6 +24,36 @@ public class Computador {
                 return true;
         }
 
+        public void setMarca(String string) {
+            // TODO Auto-generated method stub
+            throw new UnsupportedOperationException("Unimplemented method 'setMarca'");
+        }
+
+        public void exibirInfo() {
+            // TODO Auto-generated method stub
+            throw new UnsupportedOperationException("Unimplemented method 'exibirInfo'");
+        }
+
+        public void setModelo(String string) {
+            // TODO Auto-generated method stub
+            throw new UnsupportedOperationException("Unimplemented method 'setModelo'");
+        }
+
+        public void setPreco(double d) {
+            // TODO Auto-generated method stub
+            throw new UnsupportedOperationException("Unimplemented method 'setPreco'");
+        }
+
+        public void setArmazenamento(int i) {
+            // TODO Auto-generated method stub
+            throw new UnsupportedOperationException("Unimplemented method 'setArmazenamento'");
+        }
+
+        public void verDados() {
+            // TODO Auto-generated method stub
+            throw new UnsupportedOperationException("Unimplemented method 'verDados'");
+        }
+
         
 }
          
