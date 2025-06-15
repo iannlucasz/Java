@@ -9,6 +9,8 @@ public class Computador {
         String processador;
         boolean placaDeVideoIntegrada;
 
+        
+
         Fabricante fabricante;
 
         public double calcularDesconto(double desconto) {
