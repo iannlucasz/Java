@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADV(Aula05)/ADV(Aula05).iml" filepath="$PROJECT_DIR$/ADV(Aula05)/ADV(Aula05).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ADV(Aula06)/ADV(Aula06).iml" filepath="$PROJECT_DIR$/ADV(Aula06)/ADV(Aula06).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ADV(Aula08)/ADV(Aula08).iml" filepath="$PROJECT_DIR$/ADV(Aula08)/ADV(Aula08).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIAP(Cáp03)/FIAP(Cáp03).iml" filepath="$PROJECT_DIR$/FIAP(Cáp03)/FIAP(Cáp03).iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIAP(Cáp0306)/FIAP(Cáp0306).iml" filepath="$PROJECT_DIR$/FIAP(Cáp0306)/FIAP(Cáp0306).iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIAP(Cáp0307)/FIAP(Cáp0307).iml" filepath="$PROJECT_DIR$/FIAP(Cáp0307)/FIAP(Cáp0307).iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIAP(Cáp04)/FIAP(Cáp04).iml" filepath="$PROJECT_DIR$/FIAP(Cáp04)/FIAP(Cáp04).iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIAP(Cáp0502)/FIAP(Cáp0502).iml" filepath="$PROJECT_DIR$/FIAP(Cáp0502)/FIAP(Cáp0502).iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIAP(Cáp0503)/FIAP(Cáp0503).iml" filepath="$PROJECT_DIR$/FIAP(Cáp0503)/FIAP(Cáp0503).iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIAP(Cáp0506)/FIAP(Cáp0506).iml" filepath="$PROJECT_DIR$/FIAP(Cáp0506)/FIAP(Cáp0506).iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIAP(Cáp0509)/FIAP(Cáp0509).iml" filepath="$PROJECT_DIR$/FIAP(Cáp0509)/FIAP(Cáp0509).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança/Herança.iml" filepath="$PROJECT_DIR$/Herança/Herança.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LógProgramação/LógProgramação.iml" filepath="$PROJECT_DIR$/LógProgramação/LógProgramação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MetodoConstrutor/MetodoConstrutor.iml" filepath="$PROJECT_DIR$/MetodoConstrutor/MetodoConstrutor.iml" />
+    </modules>
+  </component>
+</project>
